@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+
+#header-links {
+    color: red;
+    padding: 10px;
+}
+
+h1 {
+    color: yellow;
+}
